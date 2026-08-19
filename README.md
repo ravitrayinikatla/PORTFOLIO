@@ -94,15 +94,6 @@ Featured cybersecurity and AI projects including:
 
 ---
 
-## 📱 Browser Support
-
-- ✅ Chrome/Edge (Latest)
-- ✅ Firefox (Latest)
-- ✅ Safari (Latest)
-- ✅ Mobile Browsers (iOS Safari, Chrome Mobile)
-
----
-
 ## 🎨 Customization
 
 To personalize this portfolio:
@@ -132,21 +123,6 @@ To personalize this portfolio:
 - **LinkedIn**: [Katla Ravitrayini](https://linkedin.com/in/Katla-Ravitrayini)
 - **Location**: Karimnagar, Telangana, India
 - **Phone**: +91-7013105057
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## ⭐ Show Your Support
-
-If you like this portfolio template, please consider:
-- ⭐ Starring this repository
-- 🔄 Forking it for your own use
-- 📢 Sharing it with others
 
 ---
 
